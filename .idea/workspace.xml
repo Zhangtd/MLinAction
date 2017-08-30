@@ -2,64 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9157edce-eb87-41b8-bdf4-b8dee55aeaa2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/preferred-vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ID3_DecisionTree/ID3.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ID3_DecisionTree/lenses.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ID3_DecisionTree/tree.pkl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/KNN/datingTestSet.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/KNN/kNN.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/NBayes.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/email/ham/1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/email/ham/10.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/email/ham/11.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/email/ham/12.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/email/ham/13.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/email/ham/14.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/email/ham/15.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/email/ham/16.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/email/ham/17.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/email/ham/18.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/email/ham/19.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/email/ham/2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/email/ham/20.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/email/ham/21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/email/ham/22.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/email/ham/23.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/email/ham/24.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/email/ham/25.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/email/ham/3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/email/ham/4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/email/ham/5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/email/ham/6.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/email/ham/7.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/email/ham/8.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/email/ham/9.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/email/spam/1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/email/spam/10.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/email/spam/11.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/email/spam/12.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/email/spam/13.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/email/spam/14.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/email/spam/15.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/email/spam/16.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/email/spam/17.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/email/spam/18.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/email/spam/19.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/email/spam/2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/email/spam/20.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/email/spam/21.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/email/spam/22.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/email/spam/23.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/email/spam/24.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/email/spam/25.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/email/spam/3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/email/spam/4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/email/spam/5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/email/spam/6.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/email/spam/7.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/email/spam/8.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NBayes/email/spam/9.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.py" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-Logistic/logistic.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -71,11 +14,47 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/MLinAction$logistic.coverage" NAME="logistic Coverage Results" MODIFIED="1504013193180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04-Logistic" />
+    <SUITE FILE_PATH="coverage/MLinAction$logRegres.coverage" NAME="logRegres Coverage Results" MODIFIED="1504013158774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/machinelearninginaction/Ch05" />
     <SUITE FILE_PATH="coverage/MLinAction$NBayes.coverage" NAME="NBayes Coverage Results" MODIFIED="1503989721437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NBayes" />
+    <SUITE FILE_PATH="coverage/MLinAction$setup.coverage" NAME="setup Coverage Results" MODIFIED="1503998053510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads/numpy-1.11.2/numpy-1.11.2" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="logistic.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/04-Logistic/logistic.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="708">
+              <caret line="45" column="37" lean-forward="true" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="37" />
+              <folding>
+                <element signature="e#17#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logRegres.py" pinned="false" current-in-tab="false">
+        <entry file="file://E:/machinelearninginaction/Ch05/logRegres.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="700">
+              <caret line="34" column="13" lean-forward="false" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NBayes.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03-NBayes/NBayes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -92,6 +71,8 @@
       <list>
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/NBayes/NBayes.py" />
+        <option value="E:/machinelearninginaction/Ch05/logRegres.py" />
+        <option value="$PROJECT_DIR$/04-Logistic/logistic.py" />
       </list>
     </option>
   </component>
@@ -153,6 +134,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MLinAction" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MLinAction" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="03-NBayes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -173,7 +168,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.NBayes">
+  <component name="RunManager" selected="Python.logistic">
     <configuration default="false" name="NBayes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -188,6 +183,63 @@
       <module name="MLinAction" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NBayes/NBayes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="setup" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads/numpy-1.11.2/numpy-1.11.2" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MLinAction" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/numpy-1.11.2/numpy-1.11.2/setup.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="logistic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04-Logistic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MLinAction" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04-Logistic/logistic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="logRegres" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="E:/machinelearninginaction/Ch05" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MLinAction" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:/machinelearninginaction/Ch05/logRegres.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -344,12 +396,18 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
-    <list size="1">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Python.NBayes" />
+      <item index="1" class="java.lang.String" itemvalue="Python.setup" />
+      <item index="2" class="java.lang.String" itemvalue="Python.logistic" />
+      <item index="3" class="java.lang.String" itemvalue="Python.logRegres" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.NBayes" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.logistic" />
+        <item index="1" class="java.lang.String" itemvalue="Python.logRegres" />
+        <item index="2" class="java.lang.String" itemvalue="Python.setup" />
+        <item index="3" class="java.lang.String" itemvalue="Python.NBayes" />
       </list>
     </recent_temporary>
   </component>
@@ -372,12 +430,12 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32957748" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32957748" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -418,6 +476,40 @@
         <state relative-caret-position="332">
           <caret line="60" column="9" lean-forward="false" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="9" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-NBayes/NBayes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/numpy-1.11.2/numpy-1.11.2/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="75" column="29" lean-forward="true" selection-start-line="75" selection-start-column="29" selection-end-line="75" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/machinelearninginaction/Ch05/logRegres.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="34" column="13" lean-forward="false" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-Logistic/logistic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="708">
+          <caret line="45" column="37" lean-forward="true" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="37" />
+          <folding>
+            <element signature="e#17#35#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
