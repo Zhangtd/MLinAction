@@ -1,10 +1,13 @@
 # coding=utf-8
 import random
+
+
 def textParse(fileString):
     import re
     wordArr = re.split(r'\W*',fileString)
     wordList = [word.lower() for word in wordArr if len(word)>2]
     return wordList
+
 
 def getText():
     hamInst = []
@@ -19,6 +22,7 @@ def getText():
         spamInst.append(textParse(file2.read()))
     return hamInst, spamInst
 
+
 def vocList(instH, instS):
     vocDict = set([])
     for inst in instH:
@@ -26,6 +30,7 @@ def vocList(instH, instS):
     for inst in instS:
         vocDict = vocDict | set(inst)
     return list(vocDict)
+
 
 def calWordPro(vocDict, instH, instS):
     total = 2
@@ -49,6 +54,7 @@ def calWordPro(vocDict, instH, instS):
 
     return wordProH, wordProS
 
+
 def classify(testInst, wordProH, wordProS):
     from math import log
     proH = 0
@@ -60,6 +66,7 @@ def classify(testInst, wordProH, wordProS):
         return 0
     else:
         return 1
+
 
 def main():
     hamInsts, spamInsts = getText()
@@ -76,7 +83,9 @@ def main():
         pred = classify(case, wordProH, wordProS)
         if pred == 1:
             count += 1
-    print count
+    print(count)
+
+
 if __name__ == '__main__':
     main()
 

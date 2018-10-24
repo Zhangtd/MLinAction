@@ -1,6 +1,8 @@
 # coding = utf-8
 import numpy as np
 import types
+
+
 def loadData():
     fileTrain = open('horseColicTraining.txt','rb')
     fileTest = open('horseColicTest.txt','rb')
@@ -20,12 +22,14 @@ def loadData():
         dataTest.append(arr)
     return dataTrain, dataTest
 
+
 def sigmoid(inX):
     from math import exp
     res = []
     for x in inX:
         res.append(1.0/(1+exp(-x)))
     return np.array(res)
+
 
 def gradAscend(data):
     featCols = []
@@ -44,9 +48,10 @@ def gradAscend(data):
     for i in range(maxIter):
         z = np.dot(featMat,weights)
         error = labelMat - sigmoid(z)
-        print error
+        print(error)
         weights = weights + alpha * np.dot(featMat.transpose(),error)
-        print weights
+        print(weights)
+
 
 dataTrain, dataTest = loadData()
 gradAscend(dataTrain)
